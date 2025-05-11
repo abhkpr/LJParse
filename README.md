@@ -28,8 +28,8 @@ CL-USER> (parse-json "{\"name\": \"Alice\", \"age\": 30, \"skills\": [\"Lisp\", 
 ## Usage
 
 ### Clone the repo
-`git clone https://github.com/your-username/lisp-json-parser.gi`
-`cd lisp-json-parser`
+`git clone https://github.com/abhkpr/LJParse.git`
+`cd LJParse`
 
 ### Load in REPL
 `(load "parser.lisp")`
